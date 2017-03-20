@@ -52,7 +52,7 @@ ERB allows you to use Ruby code inside of a view alongside your HTML and CSS.
 
 10. Why do I need a development AND test database?
 
-A test database allows you to test light-weight, smaller scenarios to make sure your code works without having to use large datasets. Developmentn databases allow you to mimic production scenarios with large datasets, but you know what to expect out of your data.
+A test database allows you to test light-weight, smaller scenarios to make sure your code works without having to use large datasets. Development databases allow you to mimic production scenarios with large datasets, but you know what to expect out of your data.
 
 11. What's responsive design?
 
@@ -68,8 +68,8 @@ HTTP stands for HyperText Transfer Protocol.
 
 14. What are the two ways to interpolate Ruby in an ERB view template? What's the difference between these two ways?
 
-<%= %>, inserts code
-<%  %>, does not insert code?...
+* <%= %>, inserts code
+* <%  %>, does not insert code?...
 
 15. What's an ORM?
 
